@@ -1,0 +1,384 @@
+06:06:09.895 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+06:06:10.079 [main] INFO  testCases.LoginTest - Clicked on My account
+06:06:10.795 [main] INFO  testCases.LoginTest - Clicked on Resister
+06:06:11.140 [main] INFO  testCases.LoginTest - Provided username and password
+06:06:11.633 [main] INFO  testCases.LoginTest - Clicked on Login button
+06:13:23.390 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+06:13:23.521 [main] INFO  testCases.LoginTest - Clicked on My account
+06:13:24.109 [main] INFO  testCases.LoginTest - Clicked on Resister
+06:13:24.273 [main] INFO  testCases.LoginTest - Provided username and password
+06:13:24.777 [main] INFO  testCases.LoginTest - Clicked on Login button
+06:14:18.414 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+06:14:18.531 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+06:14:19.122 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+06:14:19.572 [main] INFO  testCases.AccountRegistrationTest - Provided customer detais and agreed private policy
+06:14:22.053 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+06:14:22.081 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+06:14:22.083 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+06:29:54.887 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+06:29:55.064 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+06:29:55.631 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+06:29:56.080 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+06:29:58.691 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+06:29:58.729 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+06:29:58.729 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+06:30:00.820 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+06:30:01.149 [main] INFO  testCases.LoginTest - Clicked on My account
+06:30:01.705 [main] INFO  testCases.LoginTest - Clicked on Resister
+06:30:01.884 [main] INFO  testCases.LoginTest - Provided username and password
+06:30:02.352 [main] INFO  testCases.LoginTest - Clicked on Login button
+06:51:01.682 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+06:51:01.812 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+06:51:02.148 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+06:51:02.585 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+06:51:04.953 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+06:51:04.988 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+06:51:04.990 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+06:51:07.049 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+06:51:07.199 [main] INFO  testCases.LoginTest - Clicked on My account
+06:51:07.541 [main] INFO  testCases.LoginTest - Clicked on Resister
+06:51:07.785 [main] INFO  testCases.LoginTest - Provided username and password
+06:51:08.019 [main] INFO  testCases.LoginTest - Clicked on Login button
+07:21:27.211 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+07:21:27.344 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+07:21:27.662 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+07:21:28.070 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+07:21:30.410 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+07:21:30.437 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+07:21:30.439 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+07:21:33.960 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+07:21:34.035 [main] INFO  testCases.LoginTest - Clicked on My account
+07:21:34.261 [main] INFO  testCases.LoginTest - Clicked on Resister
+07:21:34.411 [main] INFO  testCases.LoginTest - Provided username and password
+07:21:34.644 [main] INFO  testCases.LoginTest - Clicked on Login button
+07:38:29.803 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+07:38:29.882 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+07:38:30.184 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+07:38:30.566 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+07:38:32.956 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+07:38:32.987 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+07:38:32.995 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+07:38:36.014 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+07:38:36.158 [main] INFO  testCases.LoginTest - Clicked on My account
+07:38:36.412 [main] INFO  testCases.LoginTest - Clicked on Resister
+07:38:36.665 [main] INFO  testCases.LoginTest - Provided username and password
+07:38:36.938 [main] INFO  testCases.LoginTest - Clicked on Login button
+07:38:56.957 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+07:38:57.092 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+07:38:57.409 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+07:38:57.799 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+07:39:00.141 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+07:39:00.169 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+07:39:00.170 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+07:39:04.178 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+07:39:04.256 [main] INFO  testCases.LoginTest - Clicked on My account
+07:39:04.570 [main] INFO  testCases.LoginTest - Clicked on Resister
+07:39:04.788 [main] INFO  testCases.LoginTest - Provided username and password
+07:39:05.045 [main] INFO  testCases.LoginTest - Clicked on Login button
+07:45:28.277 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+07:45:34.375 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+07:45:35.691 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+07:45:35.845 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+07:45:35.951 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+07:45:36.269 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+07:45:36.679 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+07:45:39.124 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+07:45:39.181 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+07:45:39.183 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+07:45:39.399 [main] INFO  testCases.LoginTest - Launching chrome browser...
+07:45:40.593 [main] INFO  testCases.LoginTest - Launching URL...
+07:45:43.004 [main] INFO  testCases.LoginTest - Maximizing the window...
+07:45:43.136 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+07:45:43.232 [main] INFO  testCases.LoginTest - Clicked on My account
+07:45:43.521 [main] INFO  testCases.LoginTest - Clicked on Resister
+07:45:43.686 [main] INFO  testCases.LoginTest - Provided username and password
+07:45:43.919 [main] INFO  testCases.LoginTest - Clicked on Login button
+07:45:52.524 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+07:45:54.588 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+07:45:54.777 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+07:45:55.914 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+07:45:56.024 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+07:45:56.356 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+07:45:56.746 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+07:45:59.091 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+07:45:59.126 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+07:45:59.127 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+07:45:59.303 [main] INFO  testCases.LoginTest - Launching chrome browser...
+07:46:00.406 [main] INFO  testCases.LoginTest - Launching URL...
+07:46:00.808 [main] INFO  testCases.LoginTest - Maximizing the window...
+07:46:00.943 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+07:46:01.055 [main] INFO  testCases.LoginTest - Clicked on My account
+07:46:01.386 [main] INFO  testCases.LoginTest - Clicked on Resister
+07:46:01.666 [main] INFO  testCases.LoginTest - Provided username and password
+07:46:01.901 [main] INFO  testCases.LoginTest - Clicked on Login button
+08:22:50.042 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+08:23:27.444 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+08:23:28.978 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+08:23:29.127 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+08:23:29.227 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+08:23:29.510 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+08:23:29.892 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+08:23:32.223 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+08:23:32.263 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+08:23:32.266 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+08:23:32.498 [main] INFO  testCases.LoginTest - Launching chrome browser...
+08:23:33.730 [main] INFO  testCases.LoginTest - Launching URL...
+08:23:34.945 [main] INFO  testCases.LoginTest - Maximizing the window...
+08:23:35.075 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+08:23:35.164 [main] INFO  testCases.LoginTest - Clicked on My account
+08:23:35.521 [main] INFO  testCases.LoginTest - Clicked on Resister
+08:23:35.705 [main] INFO  testCases.LoginTest - Provided username and password
+08:23:35.917 [main] INFO  testCases.LoginTest - Clicked on Login button
+08:25:18.756 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+08:25:24.393 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+08:25:25.515 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+08:25:25.674 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+08:25:25.794 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+08:25:26.060 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+08:25:26.429 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+08:25:26.692 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+08:25:36.750 [main] WARN  testCases.AccountRegistrationTest - Customer registration is not successful
+08:25:36.750 [main] INFO  testCases.AccountRegistrationTest - Test Failed
+08:25:37.339 [main] INFO  testCases.LoginTest - Launching chrome browser...
+08:25:38.526 [main] INFO  testCases.LoginTest - Launching URL...
+08:25:41.546 [main] INFO  testCases.LoginTest - Maximizing the window...
+08:25:41.677 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+08:25:41.747 [main] INFO  testCases.LoginTest - Clicked on My account
+08:25:42.034 [main] INFO  testCases.LoginTest - Clicked on Resister
+08:25:42.266 [main] INFO  testCases.LoginTest - Provided username and password
+08:25:42.522 [main] INFO  testCases.LoginTest - Clicked on Login button
+09:28:38.481 [main] INFO  testCases.LoginDataDrivenTest - Launching chrome browser...
+09:28:47.436 [main] INFO  testCases.LoginDataDrivenTest - Launching URL...
+09:28:47.847 [main] INFO  testCases.LoginDataDrivenTest - Maximizing the window...
+09:28:48.909 [main] INFO  testCases.LoginDataDrivenTest -  Starting LoginDataDrivenTest 
+09:28:59.611 [main] INFO  testCases.LoginDataDrivenTest - Finished LoginDataDrivenTest
+09:28:59.644 [main] INFO  testCases.LoginDataDrivenTest -  Starting LoginDataDrivenTest 
+09:29:10.372 [main] INFO  testCases.LoginDataDrivenTest - Finished LoginDataDrivenTest
+09:29:10.372 [main] INFO  testCases.LoginDataDrivenTest -  Starting LoginDataDrivenTest 
+09:29:21.055 [main] INFO  testCases.LoginDataDrivenTest - Finished LoginDataDrivenTest
+09:29:21.089 [main] INFO  testCases.LoginDataDrivenTest -  Starting LoginDataDrivenTest 
+09:29:31.667 [main] INFO  testCases.LoginDataDrivenTest - Finished LoginDataDrivenTest
+09:29:31.667 [main] INFO  testCases.LoginDataDrivenTest -  Starting LoginDataDrivenTest 
+09:29:32.724 [main] INFO  testCases.LoginDataDrivenTest - Finished LoginDataDrivenTest
+09:45:28.822 [main] INFO  testCases.LoginTest - Launching chrome browser...
+09:45:31.481 [main] INFO  testCases.LoginTest - Launching URL...
+09:45:31.915 [main] INFO  testCases.LoginTest - Maximizing the window...
+09:45:32.616 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+09:45:32.708 [main] INFO  testCases.LoginTest - Clicked on My account
+09:45:32.957 [main] INFO  testCases.LoginTest - Clicked on Resister
+09:45:33.137 [main] INFO  testCases.LoginTest - Provided username and password
+09:45:33.377 [main] INFO  testCases.LoginTest - Clicked on Login button
+09:45:46.208 [main] INFO  testCases.LoginTest - Launching chrome browser...
+09:45:48.433 [main] INFO  testCases.LoginTest - Launching URL...
+09:45:49.173 [main] INFO  testCases.LoginTest - Maximizing the window...
+09:45:49.876 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+09:45:49.955 [main] INFO  testCases.LoginTest - Clicked on My account
+09:45:50.157 [main] INFO  testCases.LoginTest - Clicked on Resister
+09:45:50.326 [main] INFO  testCases.LoginTest - Provided username and password
+09:45:50.567 [main] INFO  testCases.LoginTest - Clicked on Login button
+09:59:41.484 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+09:59:45.527 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+09:59:47.215 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+09:59:47.345 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+09:59:47.426 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+09:59:47.664 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+09:59:48.009 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+09:59:48.202 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+09:59:58.225 [main] WARN  testCases.AccountRegistrationTest - Customer registration is not successful
+09:59:58.232 [main] INFO  testCases.AccountRegistrationTest - Test Failed
+09:59:58.706 [main] INFO  testCases.LoginTest - Launching chrome browser...
+10:00:00.151 [main] INFO  testCases.LoginTest - Launching URL...
+10:00:01.470 [main] INFO  testCases.LoginTest - Maximizing the window...
+10:00:04.084 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+10:00:04.181 [main] INFO  testCases.LoginTest - Clicked on My account
+10:00:04.408 [main] INFO  testCases.LoginTest - Clicked on Resister
+10:00:04.589 [main] INFO  testCases.LoginTest - Provided username and password
+10:00:04.807 [main] INFO  testCases.LoginTest - Clicked on Login button
+10:00:34.809 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+10:00:36.895 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+10:00:37.316 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+10:00:37.441 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+10:00:37.531 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+10:00:37.805 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+10:00:38.222 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+10:00:40.532 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+10:00:40.572 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+10:00:40.574 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+10:00:40.748 [main] INFO  testCases.LoginTest - Launching chrome browser...
+10:00:41.814 [main] INFO  testCases.LoginTest - Launching URL...
+10:00:42.253 [main] INFO  testCases.LoginTest - Maximizing the window...
+10:00:42.938 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+10:00:42.992 [main] INFO  testCases.LoginTest - Clicked on My account
+10:00:43.170 [main] INFO  testCases.LoginTest - Clicked on Resister
+10:00:43.343 [main] INFO  testCases.LoginTest - Provided username and password
+10:00:43.554 [main] INFO  testCases.LoginTest - Clicked on Login button
+10:01:33.794 [main] INFO  testCases.LoginTest - Launching chrome browser...
+10:01:35.803 [main] INFO  testCases.LoginTest - Launching URL...
+10:01:36.477 [main] INFO  testCases.LoginTest - Maximizing the window...
+10:01:37.110 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+10:01:37.191 [main] INFO  testCases.LoginTest - Clicked on My account
+10:01:37.390 [main] INFO  testCases.LoginTest - Clicked on Resister
+10:01:37.563 [main] INFO  testCases.LoginTest - Provided username and password
+10:01:37.784 [main] INFO  testCases.LoginTest - Clicked on Login button
+10:02:10.013 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+10:02:12.543 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+10:02:14.075 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+10:02:14.213 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+10:02:14.298 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+10:02:14.571 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+10:02:15.009 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+10:02:17.335 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+10:02:17.372 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+10:02:17.373 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+10:13:44.098 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+10:13:47.511 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+10:13:48.207 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+10:13:48.353 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+10:13:48.439 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+10:13:48.709 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+10:13:49.125 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+10:13:51.454 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+10:13:51.492 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+10:13:51.493 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+10:13:51.641 [main] INFO  testCases.LoginTest - Launching chrome browser...
+10:13:52.842 [main] INFO  testCases.LoginTest - Launching URL...
+10:13:53.284 [main] INFO  testCases.LoginTest - Maximizing the window...
+10:13:54.160 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+10:13:54.205 [main] INFO  testCases.LoginTest - Clicked on My account
+10:13:54.385 [main] INFO  testCases.LoginTest - Clicked on Resister
+10:13:54.541 [main] INFO  testCases.LoginTest - Provided username and password
+10:13:54.706 [main] INFO  testCases.LoginTest - Clicked on Login button
+10:16:16.912 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+10:16:19.221 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+10:16:19.834 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+10:16:20.000 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+10:16:20.077 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+10:16:20.307 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+10:16:20.736 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+10:16:23.065 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+10:16:23.103 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+10:16:23.104 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+10:16:23.275 [main] INFO  testCases.LoginTest - Launching chrome browser...
+10:16:24.659 [main] INFO  testCases.LoginTest - Launching URL...
+10:16:25.045 [main] INFO  testCases.LoginTest - Maximizing the window...
+10:16:25.791 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+10:16:25.853 [main] INFO  testCases.LoginTest - Clicked on My account
+10:16:26.083 [main] INFO  testCases.LoginTest - Clicked on Resister
+10:16:26.247 [main] INFO  testCases.LoginTest - Provided username and password
+10:16:26.446 [main] INFO  testCases.LoginTest - Clicked on Login button
+10:17:31.315 [main] INFO  testCases.LoginTest - Launching chrome browser...
+10:17:33.269 [main] INFO  testCases.LoginTest - Launching URL...
+10:17:33.619 [main] INFO  testCases.LoginTest - Maximizing the window...
+10:17:34.352 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+10:17:34.439 [main] INFO  testCases.LoginTest - Clicked on My account
+10:17:34.626 [main] INFO  testCases.LoginTest - Clicked on Resister
+10:17:34.786 [main] INFO  testCases.LoginTest - Provided username and password
+10:17:34.987 [main] INFO  testCases.LoginTest - Clicked on Login button
+10:40:43.282 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+10:40:49.001 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+10:40:49.570 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+10:40:49.711 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+10:40:49.797 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+10:40:50.056 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+10:40:50.476 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+10:40:52.820 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+10:40:52.851 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+10:40:52.853 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+10:40:53.058 [main] INFO  testCases.LoginTest - Launching chrome browser...
+10:40:54.138 [main] INFO  testCases.LoginTest - Launching URL...
+10:40:55.109 [main] INFO  testCases.LoginTest - Maximizing the window...
+10:40:55.867 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+10:40:55.924 [main] INFO  testCases.LoginTest - Clicked on My account
+10:40:56.111 [main] INFO  testCases.LoginTest - Clicked on Resister
+10:40:56.276 [main] INFO  testCases.LoginTest - Provided username and password
+10:40:56.488 [main] INFO  testCases.LoginTest - Clicked on Login button
+10:54:44.954 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+10:54:48.459 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+10:54:49.817 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+10:54:49.950 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+10:54:50.086 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+10:54:50.354 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+10:54:50.770 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+10:54:53.169 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+10:54:53.204 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+10:54:53.208 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+10:54:53.393 [main] INFO  testCases.LoginTest - Launching chrome browser...
+10:54:54.652 [main] INFO  testCases.LoginTest - Launching URL...
+10:54:57.473 [main] INFO  testCases.LoginTest - Maximizing the window...
+10:54:59.305 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+10:54:59.436 [main] INFO  testCases.LoginTest - Clicked on My account
+10:54:59.653 [main] INFO  testCases.LoginTest - Clicked on Resister
+10:54:59.866 [main] INFO  testCases.LoginTest - Provided username and password
+10:55:00.207 [main] INFO  testCases.LoginTest - Clicked on Login button
+10:55:53.571 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+10:55:55.921 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+10:55:57.159 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+10:55:57.291 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+10:55:57.409 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+10:55:57.720 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+10:55:58.135 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+10:56:00.479 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+10:56:00.539 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+10:56:00.544 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+10:56:00.770 [main] INFO  testCases.LoginTest - Launching chrome browser...
+10:56:01.967 [main] INFO  testCases.LoginTest - Launching URL...
+10:56:02.640 [main] INFO  testCases.LoginTest - Maximizing the window...
+10:56:04.797 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+10:56:04.913 [main] INFO  testCases.LoginTest - Clicked on My account
+10:56:05.149 [main] INFO  testCases.LoginTest - Clicked on Resister
+10:56:05.337 [main] INFO  testCases.LoginTest - Provided username and password
+10:56:05.535 [main] INFO  testCases.LoginTest - Clicked on Login button
+11:07:47.412 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+11:07:50.843 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+11:07:52.484 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+11:07:52.641 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+11:07:52.767 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+11:07:53.066 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+11:07:53.551 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+11:07:55.993 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+11:07:56.033 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+11:07:56.049 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+11:07:56.353 [main] INFO  testCases.LoginTest - Launching chrome browser...
+11:07:57.541 [main] INFO  testCases.LoginTest - Launching URL...
+11:07:58.201 [main] INFO  testCases.LoginTest - Maximizing the window...
+11:08:00.146 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+11:08:00.204 [main] INFO  testCases.LoginTest - Clicked on My account
+11:08:00.443 [main] INFO  testCases.LoginTest - Clicked on Resister
+11:08:00.752 [main] INFO  testCases.LoginTest - Provided username and password
+11:08:00.984 [main] INFO  testCases.LoginTest - Clicked on Login button
+11:12:02.273 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+11:12:05.606 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+11:12:06.980 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+11:12:07.135 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+11:12:07.285 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+11:12:07.657 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+11:12:08.149 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+11:12:10.520 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+11:12:10.563 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+11:12:10.569 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+11:12:10.863 [main] INFO  testCases.LoginTest - Launching chrome browser...
+11:12:12.224 [main] INFO  testCases.LoginTest - Launching URL...
+11:12:15.038 [main] INFO  testCases.LoginTest - Maximizing the window...
+11:12:17.591 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+11:12:17.654 [main] INFO  testCases.LoginTest - Clicked on My account
+11:12:17.990 [main] INFO  testCases.LoginTest - Clicked on Resister
+11:12:18.221 [main] INFO  testCases.LoginTest - Provided username and password
+11:12:18.452 [main] INFO  testCases.LoginTest - Clicked on Login button
+11:13:27.310 [main] INFO  testCases.AccountRegistrationTest - Launching chrome browser...
+11:13:29.891 [main] INFO  testCases.AccountRegistrationTest - Launching URL...
+11:13:31.880 [main] INFO  testCases.AccountRegistrationTest - Maximizing the window...
+11:13:32.024 [main] INFO  testCases.AccountRegistrationTest - ******* Staring AccountRegistrationTest ******
+11:13:32.113 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account
+11:13:32.450 [main] INFO  testCases.AccountRegistrationTest - Clicked on Resister
+11:13:33.056 [main] INFO  testCases.AccountRegistrationTest - Provided customer details and agreed private policy
+11:13:35.391 [main] INFO  testCases.AccountRegistrationTest - Clicked on Continue button
+11:13:35.434 [main] INFO  testCases.AccountRegistrationTest - Test Passed
+11:13:35.439 [main] INFO  testCases.AccountRegistrationTest - ********* Finished AccountRegistrationTest ******
+11:13:35.699 [main] INFO  testCases.LoginTest - Launching chrome browser...
+11:13:36.765 [main] INFO  testCases.LoginTest - Launching URL...
+11:13:43.498 [main] INFO  testCases.LoginTest - Maximizing the window...
+11:13:44.392 [main] INFO  testCases.LoginTest - ******* Staring AccountRegistrationTest ******
+11:13:44.452 [main] INFO  testCases.LoginTest - Clicked on My account
+11:13:44.776 [main] INFO  testCases.LoginTest - Clicked on Resister
+11:13:44.984 [main] INFO  testCases.LoginTest - Provided username and password
+11:13:45.240 [main] INFO  testCases.LoginTest - Clicked on Login button
